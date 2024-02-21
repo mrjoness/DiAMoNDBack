@@ -4,7 +4,7 @@
 
 A transferable approach for backmapping generic Cα protein traces using Denoising Diffusion Probabilistic Models (DDPMs).
 
-The DDPM models contained herein are adapted from the implementation by https://github.com/lucidrains/denoising-diffusion-pytorch, borrowing also from some changes to this implementation by https://github.com/tiwarylab/DDPM_REMD. 
+The DDPM models contained herein are adapted from the implementation by https://github.com/lucidrains/denoising-diffusion-pytorch, borrowing also from some changes to this implementation by  https://github.com/tiwarylab/DDPM_REMD. 
 
 
 ## Environmnet
